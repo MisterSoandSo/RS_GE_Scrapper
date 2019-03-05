@@ -1,0 +1,11 @@
+{ 
+    "item1":  { "name": "Grimy Guam", "id": 199},
+    "item2":  { "name": "Marble Block", "id": 8786},
+    "item3":  { "name": "Fire Rune", "id": 554},
+    "item4":  { "name": "Water Rune", "id": 555},
+    "item5":  { "name": "Air Rune", "id": 556},
+    "item6":  { "name": "Earth Rune", "id": 557},
+    "item7":  { "name": "Nature Rune", "id": 561},
+    "item8":  { "name": "Feather", "id": 314},
+    "item9":  { "name": "Magic logs", "id": 1513}
+}	
