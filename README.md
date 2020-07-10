@@ -7,7 +7,7 @@ A Python 3.7 webscrapper script that grabs information from Runescape Service an
 
 ![config_info](https://github.com/MisterSoandSo/RS_GE_Scrapper/blob/master/media/config.png)
 
-3. Run '<python RS_FIRE_GE.py>' to populate your own database.
+3. Run `<python RS_FIRE_GE.py>` to populate your own database.
 
 ## Plans
 -  [] Created an updated list of valid Exchange ID to speed up information gathering
